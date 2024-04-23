@@ -1,6 +1,6 @@
 Flashlight JS
 ================================
-Fast, small and ES3 compatible library for simple things, like:
+Fast, small and ES5 compatible library for simple things, like:
 * "echo" like in PHP
 * simple "wait"
 * get and set cookies easily
