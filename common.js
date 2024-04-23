@@ -45,6 +45,12 @@ function timeout(milliseconds, func){
 function timeoutSeconds(seconds, func){
     setTimeout(func, seconds*1000);
 }
+
+// enchanted wait
+function ewait(milliseconds) {
+    var dt = new Date();
+    while ((new Date()) - dt <= milliseconds) { /* Do nothing */ }
+}
 // Cookies
 
 // getCookie
