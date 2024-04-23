@@ -1,0 +1,7 @@
+COOKIES
+================
+
+functions:
+
+getCookie(name)
+setCookie(name, value)

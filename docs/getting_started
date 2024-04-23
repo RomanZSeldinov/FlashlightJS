@@ -1,0 +1,8 @@
+GETTING STARTED
+================
+
+You'll need to import common.js using <script> tag in <head> (above your scripts)
+
+<script src="https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/common.js"></script>
+
+Now you can use methods from common.js in your scripts.

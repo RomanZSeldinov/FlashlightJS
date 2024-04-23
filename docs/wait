@@ -1,0 +1,11 @@
+WAIT
+================
+
+functions:
+
+wait(milliseconds)
+waitSec(seconds)
+timeout(milliseconds, func)
+timeoutSeconds(seconds, func)
+ewait(milliseconds)
+

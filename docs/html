@@ -1,0 +1,10 @@
+HTML
+================
+
+functions:
+
+replaceObjectHTML(object, html)
+replaceBodyHTML(html)
+echo(html)
+echoInOBJ(object, html)
+getInnerHTML(object)
