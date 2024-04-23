@@ -1,6 +1,6 @@
 # Flashlight JS
 
-!(FlashlightJS)[http://dexpaz.ru/fl.png]
+![FlashlightJS](https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/flashlight.png)
 
 Fast, small and ES5 compatible library for simple things, like:
 * "echo" like in PHP
