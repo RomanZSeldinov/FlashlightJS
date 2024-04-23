@@ -7,18 +7,13 @@ Fast, small and ES5 compatible library for simple things, like:
 
 # HOW-TO
 
-## How to import flashlightJS?
-put this script tag above your scripts
+## Import FlashlightJS
+import it using <script> tag
 
 ```
 <script src="https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/common.js"></script>
 ```
 
-and http module
-
-```
-<script src="https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/http.js"></script>
-```
 
 
 # FAQ
