@@ -14,7 +14,7 @@ function echo(html){
     document.body.innerHTML = document.body.innerHTML.concat(html);
 }
 function echoInOBJ(object, html){
-    document.object.innerHTML = document.object.innerHTML.concat(html);
+    object.innerHTML = object.innerHTML.concat(html);
 }
 // Wait functions
 
