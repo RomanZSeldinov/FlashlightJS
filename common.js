@@ -5,7 +5,7 @@
 
 // Replace, modify, echo HTML
 function replaceObjectHTML(object, html){
-    document.object.innerHTML = html;
+    object.innerHTML = html;
 }
 function replaceBodyHTML(html){
     document.body.innerHTML = html;
