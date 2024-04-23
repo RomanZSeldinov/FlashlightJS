@@ -1,0 +1,7 @@
+Flashlight JS
+================================
+Fast and small library for simple things, like:
+* "echo" like in PHP
+* simple "wait"
+* get and set cookies easily
+
