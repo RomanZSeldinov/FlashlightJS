@@ -2,7 +2,7 @@
 
 ![FlashlightJS](https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/flashlight.png)
 
-Fast, small and ES5 compatible library for simple things, like:
+Fast, small, ES5 & ES3 compatible library for simple things, like:
 * "echo" like in PHP
 * simple "wait"
 * get and set cookies easily
