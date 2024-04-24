@@ -13,7 +13,7 @@ Fast, small, ES5 & ES3 compatible library for simple things, like:
 import it using <script> tag
 
 ```
-<script src="https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/common.js"></script>
+<script src="https://raw.githubusercontent.com/RomanZSeldinov/FlashlightJS/master/release.js"></script>
 ```
 
 
